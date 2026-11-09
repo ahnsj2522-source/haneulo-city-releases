@@ -1,0 +1,10 @@
+{
+  "version": "1.3.0",
+  "sizeBytes": 60028619,
+  "sha256": "c8c275f523ae4227f6a79bd5acaf0e97f7fa4a0643e0ac354427e3b25987382e",
+  "apkUrl": "https://github.com/ahnsj2522-source/haneulo-city-releases/releases/latest/download/Haneulo_CITY_Chuncheon.apk",
+  "pageUrl": "https://ahnsj2522-source.github.io/haneulo-city-releases/",
+  "package": "com.haneullo.city.chuncheon",
+  "minAndroid": "7.0 (API 24)",
+  "releasedAt": "2026-11-10"
+}
